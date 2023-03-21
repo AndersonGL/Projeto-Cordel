@@ -138,8 +138,9 @@ section#img02 {
 footer {
 
      background-color: black;
-     text-align: center;
+     text-align: center ;
      padding: 10px;
+    font-size: small;
    
 
 }
