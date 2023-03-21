@@ -137,10 +137,11 @@ section#img02 {
 
 footer {
 
-     background-color: black;
-     text-align: center ;
-     padding: 10px;
-    font-size: small;
    
-
+     background-color: black;
+     color: white;
+     text-align: center;
+     font-size: small;
+     padding: 10px;
+     font-weight: bold;
 }
